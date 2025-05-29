@@ -1,0 +1,1 @@
+When a player dies in a team gamemode, a teammate will be able to revive them by assigning them to a slot and then using them like a skill. This spawns them back at their home base, but doing so reduces that player's maximum health by half.
