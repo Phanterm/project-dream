@@ -25,14 +25,12 @@
             "id": "462afbc98b76236f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Game Loop.md",
-                "mode": "source",
-                "source": false
+                "file": "Game State.png"
               },
-              "icon": "lucide-file",
-              "title": "Game Loop"
+              "icon": "lucide-image",
+              "title": "Game State"
             }
           }
         ],
@@ -201,25 +199,25 @@
   },
   "active": "462afbc98b76236f",
   "lastOpenFiles": [
+    "Game Mechanics/Death.md",
     "Images/Pasted image 20250530185516.png",
     "Images/Pasted image 20250530185501.png",
     "Images",
-    "Game Loop.md",
     "Game State.png",
-    "Basic Game Concept.md",
-    "Game Mechanics/Supercell.md",
-    "Game Mechanics/Mulligan.md",
-    "Game Mechanics/Exhaustion.md",
-    "Game Mechanics/Deck Zone.md",
-    "Game Mechanics/Draw Zones.md",
-    "Game Mechanics/Death.md",
-    "Development & Scope.md",
+    "Game Loop.md",
     "User Mechanics/Card.md",
     "User Mechanics/Card Schools.md",
+    "Development & Scope.md",
     "User Mechanics/Deck.md",
     "Game Modes",
     "User Mechanics",
+    "Game Mechanics/Draw Zones.md",
+    "Game Mechanics/Deck Zone.md",
     "Settings.md",
+    "Game Mechanics/Mulligan.md",
+    "Game Mechanics/Supercell.md",
+    "Game Mechanics/Exhaustion.md",
+    "Basic Game Concept.md",
     "Settings",
     "Game Mechanics"
   ]
