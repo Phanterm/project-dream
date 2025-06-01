@@ -11,7 +11,7 @@ Changes player stats on use. Mana cards, environmental cards, etc. Simple with g
 ## Direct
 Tracks locked in targets. Mechanism for firing and tracking target based on various supported ranges.
 
-## Point,
+## Point
 Manually placed on the map; cannot be locked on. Mechanism for providing spawn zone hint and then spawning the spell there.
 
 ## Indirect

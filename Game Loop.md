@@ -25,4 +25,4 @@
 4. (!) *After 2 minutes, everyone loses if both teams are still standing.*
 (!) *out of scope for this version of the project. instead, calculate damage done between teams. most damage dealt to enemies wins (friendly fire doesn't count lol)
 
-![[Pasted image 20250530185501.png]]![[Pasted image 20250530185516.png]]
+![[Game Loop 1.png]]![[Game Loop 2.png]]

@@ -9,13 +9,17 @@ Long
 
 ### Doom
 #### Flavor 
-”Demon” magic. Undulating, smoky. Runes and curses. Sneaky. #### Style Debuffs, “Power at a Cost” 
+”Demon” magic. Undulating, smoky. Runes and curses. Sneaky. 
+#### Style 
+Debuffs, “Power at a Cost” 
 #### Favored Range 
 Mid to Melee
 
 ### Torpor
 #### Flavor 
-“Dream” magic. Bright, sometimes prismatic and colorful. Whimsical. #### Style Stat Manipulation, Traps. 
+“Dream” magic. Bright, sometimes prismatic and colorful. Whimsical. 
+#### Style 
+Stat Manipulation, Traps. 
 #### Favored Range 
 Mid  
 

@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6361d1d4048d7761",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efab7b6f40ce2636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Game Concept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Game Concept"
-            }
-          },
-          {
-            "id": "462afbc98b76236f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Loop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Loop"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "b198052b0db79797",
         "type": "tabs",
         "children": [
@@ -199,27 +164,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "462afbc98b76236f",
+  "active": "841f1a7191730ba0",
   "lastOpenFiles": [
-    "Images/Pasted image 20250530185516.png",
-    "Images/Pasted image 20250530185501.png",
-    "Images",
-    "Game Loop.md",
-    "Game State.png",
+    "README.md",
     "Basic Game Concept.md",
-    "Game Mechanics/Supercell.md",
-    "Game Mechanics/Mulligan.md",
-    "Game Mechanics/Exhaustion.md",
-    "Game Mechanics/Deck Zone.md",
-    "Game Mechanics/Draw Zones.md",
-    "Game Mechanics/Death.md",
+    "Settings.md",
+    "Game Loop.md",
     "Development & Scope.md",
+    "Controls/Actions.md",
+    "Controls/Flatscreen.md",
+    "Game Mechanics/Death.md",
+    "Game Mechanics/Draw Zones.md",
+    "Game Mechanics/Mulligan.md",
+    "Game Mechanics/Supercell.md",
     "User Mechanics/Card.md",
     "User Mechanics/Card Schools.md",
+    "Images/UI Locations.png",
+    "Game Mechanics/Deck Zone.md",
+    "Game Mechanics/Exhaustion.md",
+    "Images/TypeA.png",
+    "Images/TypeB.png",
+    "Images/TypeC.png",
+    "Images/TypeD.png",
+    "Game State.png",
+    "Images/Game Loop 2.png",
+    "Images/Game Loop 1.png",
+    "Controls",
     "User Mechanics/Deck.md",
+    "Images",
     "Game Modes",
     "User Mechanics",
-    "Settings.md",
     "Settings",
     "Game Mechanics"
   ]
